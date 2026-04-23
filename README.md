@@ -18,7 +18,7 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> ` and `
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
