@@ -11,6 +11,7 @@
 | Title | El Tayebeen Raho |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
 | Lyric Writing Date | April 23, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/el-tayebeen-raho/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +19,10 @@
 
 ## Excerpt
 
-> ` and `
+> يا حبيبتي في عيونك سحر مجنون
+> تعالي إليّ فقلبي بحبك مفتون
+> نار الشوق تكوي كل هذا السكون
+> أريدك الليلة مهما كان أو يكون
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
