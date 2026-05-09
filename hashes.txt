@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El Tayebeen Raho
+
+This log tracks the cryptographic history and versioning for the song **El Tayebeen Raho** (el-tayebeen-raho).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T13:06:33.547167 | `v1` | `80c800a40ea70b5d8f7c8f44453a97ac36584cfdcf354a0f246ff15c629f8973` | `6b83bb2051c44aa9e23a3ac8fe1aa13cb2c53e3c03a1a591f1d71aa461306069` | `2026-05-09_el-tayebeen-raho-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
